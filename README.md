@@ -50,13 +50,13 @@ Y esto es asï puesto que, en nuestra metáfora, esto equivale a una confluencia
 
 El mecanismo por el que este fenómeno tiene lugar, esto es, que una vez alcanzada ciertas condiciones, algunos libros mantienen su rango durante periodos prolongados con mínima inversión publicitaria o ventas, es el de la existencia de bandas lateraes.
 
-### Interpretación de soportes y resistencias
+Una banda lateral está compuesro por una resistencia y un soporte que fuerzan a que el precio de un activo bascule entre un rango determinado, durante un largo periodo de tiempo.
 
 Aunque se trata de una interpretación especulativa, el modelo sugiere que Amazon coloca los libros validados en bandas laterales de consolidación:
 
-**Soportes (*floors*):** cuando las ventas flaquean, los motores de recomendación actúan como amortiguadores para que el ranking «rebote» y mantenga la liquidez.
+**Soportes:** cuando las ventas flaquean, los motores de recomendación actúan como amortiguadores para que mantenga la posición.
 
-**Resistencias (*ceilings*):** límites de saturación del nicho que solo se rompen mediante choques de información externa (tráfico de redes sociales o prensa) o mejoras drásticas en los fundamentos de conversión.
+**Resistencias:** límites de saturación del nicho que solo se rompen mediante choques de información externa (tráfico de redes sociales o prensa) o mejoras drásticas en los fundamentos de conversión.
 
 ---
 
