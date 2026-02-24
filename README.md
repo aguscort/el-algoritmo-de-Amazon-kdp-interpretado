@@ -48,9 +48,9 @@ Y esto es asï puesto que, en nuestra metáfora, esto equivale a una confluencia
 
 ## El fenómeno del *sticky rank* y las bandas laterales
 
-El mecanismo por el que este fenómeno tiene lugar, esto es, que una vez alcanzada ciertas condiciones, algunos libros mantienen su rango durante periodos prolongados con mínima inversión publicitaria o ventas, es el de la existencia de bandas lateraes.
+El mecanismo por el que este fenómeno tiene lugar, esto es, que una vez alcanzadas ciertas condiciones, algunos libros mantienen su rango durante periodos prolongados con mínima inversión publicitaria o ventas, es el de la creación de bandas laterales.
 
-Una banda lateral está compuesro por una resistencia y un soporte que fuerzan a que el precio de un activo bascule entre un rango determinado, durante un largo periodo de tiempo.
+Una banda lateral está compuesta por una resistencia y un soporte que fuerzan a que el precio de un activo bascule entre un rango determinado, durante un largo periodo de tiempo.
 
 Aunque se trata de una interpretación especulativa, el modelo sugiere que Amazon coloca los libros validados en bandas laterales de consolidación:
 
