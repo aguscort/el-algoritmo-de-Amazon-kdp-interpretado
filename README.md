@@ -54,9 +54,9 @@ Una banda lateral está compuesro por una resistencia y un soporte que fuerzan a
 
 Aunque se trata de una interpretación especulativa, el modelo sugiere que Amazon coloca los libros validados en bandas laterales de consolidación:
 
-**Soportes:** cuando las ventas flaquean, los motores de recomendación actúan como amortiguadores para que mantenga la posición.
+- **Soportes:** cuando las ventas flaquean, los motores de recomendación actúan como amortiguadores para que mantenga la posición.
 
-**Resistencias:** límites de saturación del nicho que solo se rompen mediante choques de información externa (tráfico de redes sociales o prensa) o mejoras drásticas en los fundamentos de conversión.
+- **Resistencias:** límites de saturación del nicho que solo se rompen mediante choques de información externa (tráfico de redes sociales o prensa) o mejoras drásticas en los fundamentos de conversión.
 
 ---
 
