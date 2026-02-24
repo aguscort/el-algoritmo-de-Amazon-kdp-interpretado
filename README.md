@@ -5,7 +5,7 @@
 La publicación en Amazon KDP conlleva enfrentarse a todo tipo de nuevas problemáticas que resultan inéditas para un autor criado en el modelo clásico, aquel en el que las editoriales son las que gestionan el tránsito del texto por el mercado.
 
 Uno de los elementos que permiten sostener una visibilidad que se traduzca en ventas es la presencia del libro en el tramo *top* de los rankings que se construyen a partir de las diferentes categorías de clasificación temática.
-
+l
 Se trata de rankings generados de forma dinámica e incesante por Amazon. Para los autores independientes, el comportamiento del algoritmo de Amazon (A10) a menudo resulta opaco.
 
 Para interpretar sus patrones, este documento propone un modelo que compara la lógica con la que procede el slgoritmo con la de un inversor en un mercado financiero. Esta metáfora no pretende ser una descripción minuciosa, sino una herramienta heurística para orientar decisiones estratégicas.
@@ -38,11 +38,11 @@ En este sentido subyace la hipótesis de que el algoritmo de Amazon busca la cre
 
 ---
 
-## Observación empírica: la confluencia de categorías
+## Predicciôn empírica: la confluencia de categorías
 
-La intuición a la que se trata de dotar de un cuerpo conceptual es esta: los libros que aparecen en el tramo *top* de varias subcategorías relacionadas simultáneamente tienden a recibir más visibilidad orgánica.
+Este modelo conlleva una prediccion: los libros que aparecen en el tramo top de varias subcategorías simultáneamente tenderán a permanecer en dichos tramos durante mas tiempo del esperable incluso en ausencia de ventas o inversión publicitaria.
 
-En nuestra metáfora, esto equivale a una confluencia de señales. Así como una orden de compra financiera es más potente cuando diferentes indicadores apuntan a la misma tendencia, la presencia en varias categorías envía una señal de relevancia más robusta al algoritmo de Amazon. El sistema interpreta que la demanda es transversal y menos accidental, lo que dispara una «orden de compra» de visibilidad por parte del algoritmo.
+Y esto es asï puesto que, en nuestra metáfora, esto equivale a una confluencia de señales. Así como una orden de compra financiera es más potente cuando diferentes indicadores apuntan a la misma tendencia, la presencia en varias categorías envía una señal de relevancia más robusta al algoritmo de Amazon. El sistema interpreta que la demanda es transversal y menos accidental, lo que dispara una «orden de compra» de visibilidad por parte del algoritmo.
 
 ---
 
