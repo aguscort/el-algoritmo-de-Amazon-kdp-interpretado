@@ -8,11 +8,11 @@ Uno de los elementos que permiten sostener una visibilidad que se traduzca en ve
 
 Se trata de rankings generados de forma dinámica e incesante por Amazon. Para los autores independientes, el comportamiento del algoritmo de Amazon (A10) a menudo resulta opaco.
 
-Para interpretar sus patrones, este documento propone un modelo que compara la lógica algorítmica con la de un inversor en un mercado financiero. Esta metáfora no pretende ser una descripción minuciosa del código de Amazon, sino una herramienta heurística para orientar decisiones estratégicas.
+Para interpretar sus patrones, este documento propone un modelo que compara la lógica con la que procede el slgoritmo con la de un inversor en un mercado financiero. Esta metáfora no pretende ser una descripción minuciosa, sino una herramienta heurística para orientar decisiones estratégicas.
 
 ---
 
-## Marco conceptual: Amazon como inversor de «capital de visibilidad»
+# Amazon como inversor de «capital de visibilidad»
 
 En un mercado financiero, el comportamiento de los activos se analiza mediante dos métodos: el técnico y el fundamental. Ambos son herramientas de análisis mediante las cuales se pueden concretar decisiones de compra informadas y eficaces.
 
