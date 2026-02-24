@@ -48,7 +48,7 @@ Y esto es asï puesto que, en nuestra metáfora, esto equivale a una confluencia
 
 ## El fenómeno del *sticky rank* y las bandas laterales
 
-Se ha observado en foros de autores que, una vez alcanzada cierta estabilidad, algunos libros mantienen su rango durante periodos prolongados con mínima inversión publicitaria. Este fenómeno de rango pegajoso sugiere que el algoritmo favorece a ciertos libros en determinadas circunstancias.
+El mecanismo por el que este fenómeno tiene lugar, esto es, que una vez alcanzada ciertas condiciones, algunos libros mantienen su rango durante periodos prolongados con mínima inversión publicitaria o ventas, es el de la existencia de bandas lateraes.
 
 ### Interpretación de soportes y resistencias
 
