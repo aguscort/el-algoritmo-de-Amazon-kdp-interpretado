@@ -1,4 +1,4 @@
-# El algoritmo de Amazon como inversor
+# Desvelando el algoritmo de Amazon
 
 ## Marco conceptual, hipótesis y estrategia práctica
 
@@ -12,7 +12,7 @@ Para interpretar sus patrones, este documento propone un modelo que compara la l
 
 ---
 
-# Amazon como inversor de «capital de visibilidad»
+## Amazon como inversor de «capital de visibilidad»
 
 En un mercado financiero, el comportamiento de los activos se analiza mediante dos métodos: el técnico y el fundamental. Ambos son herramientas de análisis mediante las cuales se pueden concretar decisiones de compra informadas y eficaces.
 
