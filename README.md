@@ -64,9 +64,9 @@ Aunque se trata de una interpretación especulativa, el modelo sugiere que Amazo
 
 Separando la hipótesis de la observación, la estrategia práctica se centra en dos pilares:
 
-**Primero,** la consecución de un rango de posiciones excepcionales en dos categorías en las que el libro está ubicado.
+- La consecución de un rango de posiciones excepcionales en dos categorías en las que el libro está ubicado.
 
-**Segundo,** la confirmación de estar ubicado en una banda lateral, identificando soportes y resistencias de forma que la intervención publicitaria se concentre solo en momentos puntuales.
+- la confirmación de estar ubicado en una banda lateral, identificando soportes y resistencias de forma que la intervención publicitaria se concentre solo en momentos puntuales.
 
 ---
 
